@@ -29,7 +29,7 @@ version
 
 store.bind(ap.ev)
 
-console.log(color(figlet.textSync(`MTS4YOU`, {
+console.log(color(figlet.textSync(`P Botz`, {
 font: 'Standard',
 horizontalLayout: 'default',
 vertivalLayout: 'default',
