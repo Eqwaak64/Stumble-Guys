@@ -1,5 +1,5 @@
 {
-  "name": "MTS4YOU",
+  "name": "P Botz",
   "version": "2.5.0",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "dian.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "MTS4YOU",
+  "author": "P Botz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
