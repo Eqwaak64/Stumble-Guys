@@ -22,11 +22,11 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = '𝐌𝐓𝐒𝟒𝐘𝐎𝐔'//ubah nama lu
-global.botName = '𝐁𝐎𝐓 𝐌𝐓𝐒'//ubah nama bot lu
-global.author = '© 𝐌𝐓𝐒𝟒𝐘𝐎𝐔'//ubah keinginan mu
-global.packname = '𝐁𝐎𝐓 𝐌𝐓𝐒'//ubah keinginan mau
-global.ownerNumber = ["628989105685@s.whatsapp.net"]//ubah nomer lu
+global.ownerName = 'P Botz'//ubah nama lu
+global.botName = 'P Botz'//ubah nama bot lu
+global.author = '© P Botz'//ubah keinginan mu
+global.packname = 'P Botz'//ubah keinginan mau
+global.ownerNumber = ["6285788450811@s.whatsapp.net"]//ubah nomer lu
 global.prefa = ['','.']
 global.yt = 'http://youtube.com/@melliafriska'//ubah nama yt lu
 global.mess = {
@@ -353,7 +353,7 @@ tekssss = `
 ╠.  Untuk Allpay Silahkah scan qr di atas
 ╠.  dan jangan lupa kirim bukti tf dan kirim
 ╠.  bukti transfer atas nama
-╠ ❐ : wa.me/6281226416919
+╠ ❐ : wa.me/6283801360998
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -362,7 +362,7 @@ case 'tsel':
 tekssss = `
 ╔═══════✪ ❤️ OVO 
 ╠.  Ini Adalah Nomer OVO Saya
-╠ ❐ : 081226416919
+╠ ❐ : 083801360998
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -372,7 +372,7 @@ tekssss = `
 ╔═══════✪ ✅ GOPAY 
 ╠   SILAHKAN SCAN QR DI ATAS ATAU
 ╠   Ini Nomer Gopay Saya
-╠ ❐ : 081226416919
+╠ ❐ : 083801360998
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -382,7 +382,7 @@ tekssss = `
 ╔═══════✪ ☑️ DANA 
 ╠.  SILAHKAN SCAN QR DI ATAS ATAU
 ╠   Ini Nomer Dana Saya
-╠ ❐ : 081226416919
+╠ ❐ : 083801360998
 ╠.  
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -390,8 +390,8 @@ break
 case 'donasi': case 'donate':
 tekssss = `╔═══════✪ DONASI
 ╠➥ : SILAHKAN DONASI LEWAT SINI KAK
-╠➥ : DANA : 081226416919
-╠➥ : GOPAY : 081226416919
+╠➥ : DANA : 083801360998
+╠➥ : GOPAY : 083801360998
 ╠➥ : ALLPAY : SCAN LEWAT SITU KAK
 ╚═════════════✪`
 ardian.reply(tekssss)
@@ -440,12 +440,31 @@ return ardian.reply(`╔═══════✪ Menu Pemilik
 ╠➥ : block
 ╠➥ : unblock
 ╚═════════════✪
-©  MTS4YOU`)
+©  P Botz`)
 }
 break
-
 case 'bot':{
 return ardian.reply(`Kenapa Manggil Saya Bang😑`)
+}
+break
+case 'anjing':{
+return ardian.reply(`Dasar Anak Babi😑`)
+}
+break
+case 'babi':{
+return ardian.reply(`Dasar Anak Anjing😑`)
+}
+break
+case 'kontol':{
+return ardian.reply(`Apa Yatim?`)
+}
+break
+case 'memek':{
+return ardian.reply(`Apa Piatu?`)
+}
+break
+case 'asu':{
+return ardian.reply(`Lu Sok Asik Bangsat`)
 }
 break
 case 'a':{
@@ -524,7 +543,7 @@ return ardian.reply(`╔═══════✪ MENU GRUP
 ╠➥ tagall [text]
 ╠➥ join/jn [link]
 ╚═════════════✪
-© MTS4YOU`)
+© P Botz`)
 }
 break
 case 'tiktok':
