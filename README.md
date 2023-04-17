@@ -5,7 +5,7 @@
 • pkg install nodejs -y
 • pkg install ffmpeg -y
 • pkg install npm
-• git clone https://github.com/MTS4YOU/ScriptBotStoreV1
-• cd ScriptBotStoreV1
+• git clone https://github.com/Eqwaak64/Stumble-Guys
+• cd Stumble-Guys
 • npm start
 ```
