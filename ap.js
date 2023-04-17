@@ -347,44 +347,44 @@ let tekssss = `╔═══════✪ INFO
 ╚═════════════✪`
 ardian.reply(tekssss)
 break
-case 'pay':
-tekssss = `
-╔═══════✪ 💠 allpay 
+case 'allpay':{
+return ardian.reply(`╔═══════✪ 💠 allpay 
 ╠.  Untuk Allpay Silahkah scan qr di atas
 ╠.  dan jangan lupa kirim bukti tf dan kirim
 ╠.  bukti transfer atas nama
 ╠ ❐ : wa.me/6283801360998
 ╠.  
-╚═════════════✪`
+╚═════════════✪`)
+}
 ardian.reply(tekssss)
 break
-case 'tsel':
-tekssss = `
-╔═══════✪ ❤️ OVO 
+case 'tsel':{
+return ardian.reply(`╔═══════✪ ❤️ OVO 
 ╠.  Ini Adalah Nomer OVO Saya
 ╠ ❐ : 083801360998
 ╠.  
-╚═════════════✪`
+╚═════════════✪`)
+}
 ardian.reply(tekssss)
 break
-case 'gopay':
-tekssss = `
-╔═══════✪ ✅ GOPAY 
+case 'gopay':{
+return ardian.reply(`╔═══════✪ ✅ GOPAY 
 ╠   SILAHKAN SCAN QR DI ATAS ATAU
 ╠   Ini Nomer Gopay Saya
 ╠ ❐ : 083801360998
 ╠.  
-╚═════════════✪`
+╚═════════════✪`)
+}
 ardian.reply(tekssss)
 break
-case 'dana':
-tekssss = `
-╔═══════✪ ☑️ DANA 
+case 'dana':{
+return ardian.reply(`╔═══════✪ ☑️ DANA 
 ╠.  SILAHKAN SCAN QR DI ATAS ATAU
 ╠   Ini Nomer Dana Saya
 ╠ ❐ : 083801360998
 ╠.  
-╚═════════════✪`
+╚═════════════✪`)
+}
 ardian.reply(tekssss)
 break
 case 'donasi': case 'donate':
